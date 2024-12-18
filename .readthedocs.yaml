@@ -2,6 +2,9 @@
 # See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
 
 version: 2
+formats:
+  - htmlzip
+  - epub
 
 build:
   os: ubuntu-22.04
